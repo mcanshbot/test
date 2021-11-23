@@ -1,11 +1,13 @@
-- test
-- mcanshbot
-- mcansh
-- another
-- woo
-- somebody_else
-- unsorted
-- really
-- this_branch
-- test3
-- test4
+[
+  "another",
+  "mcansh",
+  "mcanshbot",
+  "really",
+  "somebody_else",
+  "test",
+  "test3",
+  "test4",
+  "this_branch",
+  "unsorted",
+  "woo"
+]
